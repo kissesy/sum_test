@@ -2,6 +2,6 @@
 
 int sum(int n)
 {
-	return n*(n+1)*(n/2);
+	return (n+1)*(n/2);
 }
 
