@@ -1,6 +1,7 @@
 #include <cstdio>
 #include "sum.h"
 
+
 int main(void)
 {
 	int n; 
